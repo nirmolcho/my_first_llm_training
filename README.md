@@ -1,3 +1,10 @@
+Here are the logos you requested for your README file:
+
+- Python Logo: ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+- Jupyter Logo: ![Jupyter Logo](https://jupyter.org/assets/main-logo.svg)
+- NLTK Logo: ![NLTK Logo](https://www.nltk.org/images/nltk.png)
+- NumPy Logo: ![NumPy Logo](https://numpy.org/images/logos/numpy.svg)
+
 # Overview
 This Jupyter notebook is part of the coursework for data science and it focuses on natural language processing (NLP) tasks. It contains several key functions for text processing and analysis, designed to build and evaluate language models.
 
