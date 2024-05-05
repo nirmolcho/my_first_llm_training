@@ -1,4 +1,3 @@
-Here are the logos you requested for your README file:
 
 
 # Overview
